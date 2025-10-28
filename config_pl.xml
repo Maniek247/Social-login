@@ -2,7 +2,7 @@
 <module>
     <name>oauthsignin</name>
     <displayName><![CDATA[Social login]]></displayName>
-    <version><![CDATA[1.0.1]]></version>
+    <version><![CDATA[1.1.0]]></version>
     <description><![CDATA[Moduł umożliwiający szybkie logowanie przez Google lub Facebooka]]></description>
     <author><![CDATA[Adam Mańko]></author>
     <tab><![CDATA[front_office_features]]></tab>

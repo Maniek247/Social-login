@@ -14,7 +14,7 @@ class OAuthSignIn extends Module implements WidgetInterface
     {
         $this->name = 'oauthsignin';
         $this->author = 'Adam Mańko';
-        $this->version = '1.0.1';
+        $this->version = '1.1.0';
         $this->tab = 'front_office_features';
         $this->need_instance = false;
         
@@ -30,7 +30,7 @@ class OAuthSignIn extends Module implements WidgetInterface
     
         $this->ps_versions_compliancy = [
             "min" => '8.0.0.0',
-            "max" => '8.99.99'
+            "max" => '9.99.99'
         ];
     }
 
